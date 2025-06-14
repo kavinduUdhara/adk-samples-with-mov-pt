@@ -1,0 +1,11 @@
+[project]
+name = "mov-agent"
+version = "0.1.0"
+description = "Movement multi-agent demo"
+authors = [{name = "Example", email = "example@example.com"}]
+license = "Apache-2.0"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "google-adk>=1.0.0",
+]
