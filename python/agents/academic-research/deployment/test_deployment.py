@@ -18,7 +18,7 @@ import os
 
 import vertexai
 from absl import app, flags
-from dotenv import load_dotenv
+from dotenv im.port load_dotenv
 from vertexai import agent_engines
 
 FLAGS = flags.FLAGS

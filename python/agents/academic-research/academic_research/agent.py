@@ -23,7 +23,6 @@ from .sub_agents.academic_websearch import academic_websearch_agent
 
 MODEL = "gemini-2.5-pro-preview-05-06"
 
-
 academic_coordinator = LlmAgent(
     name="academic_coordinator",
     model=MODEL,
